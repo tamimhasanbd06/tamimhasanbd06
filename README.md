@@ -1,528 +1,348 @@
+<!-- ═══════════════════════════════════════════════════════════════
+     NEO-TERMINAL GLASS · PREMIUM FUTURISTIC GITHUB PROFILE
+     Palette: #020617 · #00E5FF · #3B82F6 · #8B5CF6 · #F8FAFC · #94A3B8
+     Compatible: GitHub Markdown + HTML only. No JS. No external CSS.
+     ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     GALAXY PROFILE HEADER — SPIRAL GALAXY WITH SHOOTING STARS
-     Auto-updated every 12 hours via GitHub Actions
-     ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/galaxy-header.svg" alt="Spiral Galaxy Header" />
+<!-- ░░ HERO BANNER ░░ -->
+<a href="https://tamim-hassan-portfolio.vercel.app">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1120,100:1E1B4B&height=280&section=header&text=Tamim%20Hasan&fontSize=68&fontColor=F8FAFC&fontAlignY=34&desc=Full-Stack%20Web%20Developer%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=56&descSize=20&descColor=94A3B8&animation=fadeIn" alt="Tamim Hasan — Full-Stack Web Developer" />
+</a>
+
+<!-- ░░ ANIMATED TYPING — CYAN SIGNAL ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;TypeScript+%7C+Node.js+%7C+Express;Building+scalable+web+experiences" alt="Role: Full-Stack Web Developer" />
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     SCRIBESVG — EDGE-POWERED TYPING ANIMATION WITH GLASSMORPHIC CARD
-     Zero JavaScript, CSS-only @keyframes animations
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://scribesvg.vercel.app/api/render?lines=%3E_+Initializing+Developer+Environment...;%3E_+TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;%3E_+Building+Scalable+Full-Stack+Solutions;%3E_+AI-Assisted+Modern+Web+Development;%3E_+System+Ready.+Welcome+to+the+Future.&layout=card&theme=cyberpunk&font=JetBrains+Mono&size=22&gradient=0EA5E9,6EE7B7,C4B5FD&neon=true" alt="ScribeSVG Cyberpunk Terminal" />
+<!-- ░░ SOCIAL PILLS — GLASS STYLE ░░ -->
+<a href="https://tamim-hassan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=020617" alt="Portfolio" />
+</a>
+<a href="https://github.com/tamimhasanbd06">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
+</a>
+<a href="https://facebook.com/tamimhasanbd06">
+  <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=3B82F6&labelColor=020617" alt="Facebook" />
+</a>
+<a href="mailto:tamimhasanbd06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=020617" alt="Email" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     GLASSMORPHIC SOCIAL BADGES — MATTE FINISH
-     ═══════════════════════════════════════════════════════════════ -->
-<p>
-  <a href="https://tamim-hassan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=6EE7B7&labelColor=0A0A0F" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/tamimhasanbd06" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=E0E7FF&labelColor=0A0A0F" alt="GitHub" />
-  </a>
-  <a href="https://facebook.com/tamimhasanbd06" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0A0A0F?style=for-the-badge&logo=facebook&logoColor=818CF8&labelColor=0A0A0F" alt="Facebook" />
-  </a>
-  <a href="mailto:tamimhasanbd06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FCA5A5&labelColor=0A0A0F" alt="Email" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     PROFILE METRICS — MATTE GLASS
-     ═══════════════════════════════════════════════════════════════ -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tamimhasanbd06&style=for-the-badge&color=0A0A0F&labelColor=0A0A0F&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tamimhasanbd06?style=for-the-badge&logo=github&color=0A0A0F&labelColor=0A0A0F&labelColor=0A0A0F" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/tamimhasanbd06?style=for-the-badge&logo=github&color=0A0A0F&labelColor=0A0A0F" alt="GitHub Stars" />
-</p>
+<!-- ░░ LIVE PROFILE METRICS ░░ -->
+<img src="https://komarev.com/ghpvc/?username=tamimhasanbd06&style=for-the-badge&color=0B1120&labelColor=020617&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/tamimhasanbd06?style=for-the-badge&logo=github&color=0B1120&labelColor=020617&label=FOLLOWERS" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-0B1120?style=for-the-badge&labelColor=020617" alt="Focus: Full-Stack" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER — RAINBOW FLOW
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- ░░ HAIRLINE DIVIDER ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 〢 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/about-me-avatar.svg" alt="Animated Avatar" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
-> *"In 2026, code is the baseline — craft is the differentiator."*
+**Full-stack web developer** based in Narayanganj, Dhaka — building **modern, scalable, and user-focused web experiences** with a focus on **TypeScript**, **Next.js**, and **clean architecture**.
 
-I'm **Tamim Hasan**, a full-stack web developer based in **Narayanganj, Dhaka, Bangladesh**.
-I specialize in **TypeScript** and **Next.js**, building scalable, modern, and production-ready web applications with a focus on **type safety**, **performance**, and **clean architecture**.
+I care about code that is **understandable, maintainable, and useful** — not just functional.
 
-- 🏢 Currently working at **Ionic Corporation**, Rayebagh, Dhaka
+- 🏢 Web Developer at **Ionic Corporation** — Rayebagh, Dhaka
 - 🏫 Building a **School Management System** for schools across Bangladesh
-- 🎯 Obsessed with **type-safe code**, **clean architecture**, and **DX**
-- 🤖 Actively exploring **AI-assisted software development** & agentic workflows
-- 🐍 Learning **Python** to dive deeper into **Artificial Intelligence**
-- ⚡ Powered by curiosity, espresso, and the occasional 3 AM breakthrough
+- 🎯 Type-safety · DX · Performance · Production readiness
+- 🤖 Exploring **AI-assisted development** workflows
+- 🐍 Learning **Python** for AI & automation
 
-<br clear="right"/>
+</td>
+<td width="40%" align="center" valign="middle">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TERMINAL EMULATOR SVG — TYPEWRITER EFFECT WITH MACOS CHROME
-     ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/terminal.svg" width="720" alt="Animated Terminal Emulator" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Developer at work" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## ⚡ Quick Highlights
-
-| | |
-|---|---|
-| 🌍 **Location** | Narayanganj, Dhaka, Bangladesh |
-| 💼 **Current Role** | Web Developer @ Ionic Corporation, Rayebagh, Dhaka |
-| ⚡ **Core Stack** | TypeScript · Next.js · React · Node.js |
-| 🏫 **Current Project** | School Management System for schools across Bangladesh |
-| 🎓 **Certification** | Programming Hero — Level 1, Batch 13 (AI-Powered Web Development) |
-| 🌱 **Next Focus** | Python & Artificial Intelligence |
-| 💬 **Motto** | *Type safe. Ship fast. Break nothing.* |
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED ICON MARQUEE — INFINITE SCROLLING TECH BADGES
-     Zero JavaScript, seamless loop
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/icon-marquee.svg" width="900" alt="Animated Tech Icon Marquee" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     NEURAL NETWORK TECH MAP — BEZIER-CONNECTED ANIMATED GRAPH
-     Nodes pulse, edges flow
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/neural-map.svg" width="900" alt="Neural Network Tech Stack Map" />
-
-<br/><br/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&perline=7&theme=dark" alt="Frontend Skills" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=4&theme=dark" alt="Backend Skills" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman&perline=6&theme=dark" alt="Tools" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED TECH ICONS — MATTE FINISH
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JS" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc4c6e9356.gif" width="100" alt="Python" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="React" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Node" />
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d72c609-8f3e-4a9c-98f7-bc36b5f8e6f5.gif" width="100" alt="VS Code" />
-
-</div>
-
-<br/>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | JavaScript · TypeScript · Python (learning) |
-| **Frontend** | HTML · CSS · Tailwind CSS · React · Next.js |
-| **Backend** | Node.js · Express.js · REST APIs |
-| **Database** | MongoDB (learning) |
-| **Tools** | Git · GitHub · VS Code · Vercel · Postman · Figma |
-| **AI Tools** | ChatGPT · Claude · Gemini · Cursor · Codex |
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🧰 AI-Assisted Development Workflow
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GLASSMORPHIC AI TOOL BADGES — MATTE FINISH
-     ═══════════════════════════════════════════════════════════════ -->
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-0A0A0F?style=for-the-badge&logo=visualstudiocode&logoColor=6EE7B7&labelColor=0A0A0F" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cursor-0A0A0F?style=for-the-badge&logo=cursor&logoColor=E0E7FF&labelColor=0A0A0F" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-0A0A0F?style=for-the-badge&logo=google&logoColor=818CF8&labelColor=0A0A0F" alt="Google Antigravity" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-0A0A0F?style=for-the-badge&logo=openai&logoColor=6EE7B7&labelColor=0A0A0F" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-0A0A0F?style=for-the-badge&logo=googlegemini&logoColor=C4B5FD&labelColor=0A0A0F" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-0A0A0F?style=for-the-badge&logo=anthropic&logoColor=FCA5A5&labelColor=0A0A0F" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-0A0A0F?style=for-the-badge&logo=openai&logoColor=E0E7FF&labelColor=0A0A0F" alt="OpenAI Codex" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED ROBOT CODING GIF
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="420" alt="AI Robot Coding" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     COMMIT-FM — NOW PLAYING STYLE BANNER
-     Shows repositories currently in rotation, retro terminal skin
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/commit-fm/main/commit-fm.svg" width="800" alt="Commit FM Now Playing Banner" />
-
-</div>
-
-I use AI tools throughout my workflow — from planning and debugging to code review and documentation — to build faster while keeping code quality high. In 2026, **AI-assisted development is not optional; it's the standard**.
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 📊 Live Telemetry — GitHub Analytics & Activity
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GODPROFILE — SPOTIFY NOW PLAYING CARD
-     Animated equalizer bars, synced via GitHub Actions
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/spotify-now-playing.svg" width="500" alt="Spotify Now Playing" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GODPROFILE — WAKATIME ACTIVITY CHART
-     Animated horizontal bar chart of weekly coding breakdown
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/wakatime-chart.svg" width="700" alt="WakaTime Activity Chart" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     GITGLANCE — GLASSMORPHIC STATS CARDS
-     Self-hosted, rate-limit-free
-     ═══════════════════════════════════════════════════════════════ -->
-<img width="49%" src="https://gitglance.vercel.app/api/stats?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="GitHub Stats" />
-<img width="49%" src="https://gitglance.vercel.app/api/streak?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="55%" src="https://gitglance.vercel.app/api/languages?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="90%" src="https://gitglance.vercel.app/api/activity?username=tamimhasanbd06&style=glass&theme=cyberpunk&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
-## 🏙️ 3D Contribution City — GitCity
-
-<div align="center">
-  <!-- ═══════════════════════════════════════════════════════════════
-       GITCITY — ISOMETRIC 3D CITY FROM CONTRIBUTIONS
-       Every commit grows a building. Animated time-lapse.
-       ═══════════════════════════════════════════════════════════════ -->
-  <img src="https://gitcity.vercel.app/api?username=tamimhasanbd06&theme=matrix&animated=true" width="100%" alt="3D Contribution City" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tamimhasanbd06/tamimhasanbd06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<!-- ═══════════════════════════════════════════════════════════════
-     GODPROFILE — CUSTOM SVG TROPHY CASE
-     S/A/B/C rank tiers, golden glow animations
-     ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/trophies.svg" alt="GitHub Trophy Case" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🔭 Current Project — School Management System
-
-<div align="center">
-  <!-- ═══════════════════════════════════════════════════════════════
-       3D ISOMETRIC PROJECT BUILDING ANIMATION
-       ═══════════════════════════════════════════════════════════════ -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="520" alt="Project Building Animation" />
-</div>
-
-A scalable digital platform built to support schools across Bangladesh with:
-
-- 📚 Student, teacher, and administrative management
-- 🗂️ Simplified school operations and communication
-- 💻 A modern, responsive interface built with **Next.js** and **TypeScript**
-- 🚀 A foundation for digital transformation in local education
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="420" alt="Building System" />
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="420" alt="Building System 2" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <!-- ═══════════════════════════════════════════════════════════════
-           ORBITAL PROJECT CARD — PORTFOLIO
-           ═══════════════════════════════════════════════════════════════ -->
-      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-portfolio.svg" width="100%" alt="Portfolio" />
-      <br/>
-      <b>🌐 Portfolio Website</b><br/>
-      Personal portfolio showcasing my skills and work.<br/><br/>
-      🔗 <a href="https://tamim-hassan-portfolio.vercel.app">Live Site</a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <!-- ═══════════════════════════════════════════════════════════════
-           ORBITAL PROJECT CARD — SCHOOL SYSTEM
-           ═══════════════════════════════════════════════════════════════ -->
-      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-school.svg" width="100%" alt="School System" />
-      <br/>
-      <b>🏫 School Management System</b><br/>
-      Scalable school platform, currently in development.<br/><br/>
-      🔗 <i>Live link coming soon</i>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <!-- ═══════════════════════════════════════════════════════════════
-           ORBITAL PROJECT CARD — AI APP
-           ═══════════════════════════════════════════════════════════════ -->
-      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-ai.svg" width="100%" alt="AI App" />
-      <br/>
-      <b>🤖 AI Web Application</b><br/>
-      Upcoming project exploring AI-powered productivity tools.<br/><br/>
-      🔗 <i>In planning</i>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
 
----
-
-## 🎓 Education
-
-**Holyflower English High School** — Currently studying, Science group
-**Jaharpur Al Fatah Dar Ulum Komi Madarsa** — Jaharpur, Parbora Bandar, Narayanganj (Previous)
-
-## 🏅 Certification
-
-**Programming Hero — Level 1 Badge, Batch 13**
-AI-Powered Web Development
-
-## 🌐 Languages
-
-Bengali (Native) · Hindi · Urdu · English (Professional)
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🎬 Coding Inspiration Gallery
-
-<div align="center">
+## 〢 Current Focus
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Building products" />
-      <br/>
-      <b>Building ideas into real products</b>
-      <br/>
-      <sub>Every line of code is a step toward solving a real problem.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Learning & creating" />
-      <br/>
-      <b>Learning, improving, and creating</b>
-      <br/>
-      <sub>Consistent practice builds strong development skills.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="Code flow" />
-      <br/>
-      <b>Clean & scalable code</b>
-      <br/>
-      <sub>Writing maintainable solutions that grow with the product.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Web development" />
-      <br/>
-      <b>Modern web development</b>
-      <br/>
-      <sub>From UI to APIs — building full-stack experiences.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Debugging" />
-      <br/>
-      <b>Problem solving & debugging</b>
-      <br/>
-      <sub>Turning challenges into working solutions.</sub>
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Team coding" />
-      <br/>
-      <b>Continuous learning</b>
-      <br/>
-      <sub>Always exploring new tools and better ways to build.</sub>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔨 Currently Building**
+- Modern web applications
+- REST APIs & backend systems
+- Production-ready interfaces
+- Admin dashboards & tooling
+
+</td>
+<td width="50%" valign="top">
+
+**🧭 Currently Exploring**
+- Cloud architecture & DevOps
+- AI-assisted development
+- System design
+- Performance engineering
+
+</td>
+</tr>
 </table>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🧑‍💻 What I Do
+## 〢 Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="What I Do" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark&perline=4" alt="Backend: Node.js, Express, MongoDB, PostgreSQL" />
+
+**Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=python,docker,nginx,aws&theme=dark&perline=4" alt="Exploring: Python, Docker, NGINX, AWS" />
+
 </div>
 
-✅ Responsive Website Design &nbsp;·&nbsp; ✅ Frontend Development &nbsp;·&nbsp; ✅ Backend API Development
-✅ Full Stack Web Applications &nbsp;·&nbsp; ✅ Portfolio & Business Websites &nbsp;·&nbsp; ✅ AI-Assisted Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+## 〢 Developer Toolkit
 
----
+<div align="center">
 
-## 💡 My Development Mindset
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=00E5FF&labelColor=020617" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6&labelColor=020617" alt="VS Code" />
+<img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=8B5CF6&labelColor=020617" alt="Postman" />
+<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=00E5FF&labelColor=020617" alt="Figma" />
 
-<details>
-<summary><b>Click to read</b></summary>
+<br/><br/>
+
+**AI-Assisted Development**
+
+<img src="https://img.shields.io/badge/ChatGPT-020617?style=for-the-badge&logo=openai&logoColor=00E5FF&labelColor=020617" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Claude-020617?style=for-the-badge&logo=anthropic&logoColor=8B5CF6&labelColor=020617" alt="Claude" />
+<img src="https://img.shields.io/badge/Gemini-020617?style=for-the-badge&logo=googlegemini&logoColor=3B82F6&labelColor=020617" alt="Gemini" />
+<img src="https://img.shields.io/badge/Cursor-020617?style=for-the-badge&logo=cursor&logoColor=F8FAFC&labelColor=020617" alt="Cursor" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing skills, stack, and selected work.
+
+**Stack:** `Next.js` `TypeScript` `Tailwind`
+
+🔗 [Live Site](https://tamim-hassan-portfolio.vercel.app) · [Source](https://github.com/tamimhasanbd06)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 School Management System
+Scalable platform for schools across Bangladesh — students, teachers, and administration.
+
+**Stack:** `Next.js` `TypeScript` `Node.js`
+
+🔗 Live link coming soon
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Web Application
+Upcoming project exploring AI-powered productivity tools.
+
+**Stack:** `Next.js` `TypeScript` `AI APIs`
+
+🔗 In planning
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Your Next Project
+Open slot — this row is reserved for the next production release.
+
+**Stack:** `[TECH]`
+
+🔗 `[PROJECT_URL]`
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 Project Walkthroughs · Video Demos
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<a href="[VIDEO_URL_01]">
+  <img src="https://placehold.co/400x225/020617/00E5FF/png?text=Portfolio+Walkthrough" alt="Portfolio walkthrough thumbnail" />
+</a>
+
+**Portfolio Walkthrough**<br/>
+<sub>A short tour through the design system and code structure.</sub>
+
+[▶ Watch]([VIDEO_URL_01])
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="[VIDEO_URL_02]">
+  <img src="https://placehold.co/400x225/020617/3B82F6/png?text=School+System+Demo" alt="School system demo thumbnail" />
+</a>
+
+**School System Demo**<br/>
+<sub>Admin dashboard and student workflow demo.</sub>
+
+[▶ Watch]([VIDEO_URL_02])
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<a href="[VIDEO_URL_03]">
+  <img src="https://placehold.co/400x225/020617/8B5CF6/png?text=Dev+Workflow" alt="Development workflow thumbnail" />
+</a>
+
+**Development Workflow**<br/>
+<sub>How I ship — tooling, branching, and review.</sub>
+
+[▶ Watch]([VIDEO_URL_03])
+
+</td>
+</tr>
+</table>
+
+> ℹ️ GitHub does **not** render embedded video players in READMEs. The cards above link out to hosted demos — reliable and accessible on every device.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimhasanbd06&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B&count_private=true" alt="GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=tamimhasanbd06&hide_border=true&background=020617&ring=00E5FF&fire=8B5CF6&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimhasanbd06&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=94A3B8&border_color=1E293B&langs_count=8" alt="Top languages" />
+
+</div>
+
+## 〢 Building in Public
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamimhasanbd06&bg_color=020617&color=00E5FF&line=8B5CF6&point=F8FAFC&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 Developer Philosophy
+
+> **Build simple. Ship thoughtfully. Improve continuously.**
+>
+> Good software is not only functional — it is understandable, maintainable, and useful. I optimize for clarity first, performance second, cleverness never.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20TypeScript-020617?style=for-the-badge&labelColor=020617&color=00E5FF" alt="Advanced TypeScript" />
+<img src="https://img.shields.io/badge/System%20Design-020617?style=for-the-badge&labelColor=020617&color=3B82F6" alt="System Design" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-020617?style=for-the-badge&labelColor=020617&color=8B5CF6" alt="Cloud Architecture" />
+<img src="https://img.shields.io/badge/DevOps-020617?style=for-the-badge&labelColor=020617&color=00E5FF" alt="DevOps" />
+<img src="https://img.shields.io/badge/Performance%20Engineering-020617?style=for-the-badge&labelColor=020617&color=3B82F6" alt="Performance Engineering" />
+<img src="https://img.shields.io/badge/AI--Assisted%20Dev-020617?style=for-the-badge&labelColor=020617&color=8B5CF6" alt="AI-assisted development" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🌐 Web Applications
+- 🔌 REST APIs
+- ⚙️ Backend Systems
+- 🧑‍💼 Admin Dashboards
+
+</td>
+<td width="50%" valign="top">
+
+- 🚀 Landing Pages
+- 💼 Portfolio Websites
+- 🗄️ Database-driven Apps
+- ☁️ Deployment & Infrastructure
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+
+## 〢 Contact
+
+<div align="center">
+
+### Let's build something useful.
+
+<a href="https://tamim-hassan-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=020617" alt="Portfolio" />
+</a>
+<a href="https://github.com/tamimhasanbd06">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
+</a>
+<a href="mailto:tamimhasanbd06@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=020617" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-020617?style=for-the-badge&logo=checkmarx&logoColor=00E5FF&labelColor=020617" alt="Open to work" />
+<img src="https://img.shields.io/badge/Open%20to%20Collaborate-020617?style=for-the-badge&logo=handshake&logoColor=3B82F6&labelColor=020617" alt="Open to collaborate" />
+
+</div>
+
 <br/>
 
-A good developer isn't just someone who writes code — it's someone who understands problems, thinks clearly, learns continuously, and builds solutions that genuinely help people.
-
-For me, coding blends creativity, logic, patience, and purpose. I want to use technology to create real, positive impact — especially in education and digital transformation for Bangladesh.
-
-</details>
-
----
-
-## ✨ Professional Quotes
-
-> **"Code is not just a set of instructions; it is a bridge between imagination and reality."**
-
-> **"Technology becomes meaningful when it solves real problems and creates a positive impact."**
-
-> **"Every project is a new opportunity to learn, improve, and build something valuable."**
-
-> **"I do not just write code — I build solutions, improve experiences, and create possibilities."**
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED DIVIDER
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🌐 Connect With Me
-
+<!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMATED CONNECT AVATAR
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/connect-avatar.svg" width="320" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Thanks+for+visiting.;Designed+%26+built+with+curiosity+and+code." alt="Thanks for visiting" />
 
-<p>
-  <a href="https://tamim-hassan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=6EE7B7&labelColor=0A0A0F" alt="Portfolio" /></a>
-  <a href="https://github.com/tamimhasanbd06" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=E0E7FF&labelColor=0A0A0F" alt="GitHub" /></a>
-  <a href="https://facebook.com/tamimhasanbd06" target="_blank"><img src="https://img.shields.io/badge/Facebook-0A0A0F?style=for-the-badge&logo=facebook&logoColor=818CF8&labelColor=0A0A0F" alt="Facebook" /></a>
-  <a href="mailto:tamimhasanbd06@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FCA5A5&labelColor=0A0A0F" alt="Email" /></a>
-</p>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-0A0A0F?style=for-the-badge&logo=checkmarx&logoColor=6EE7B7&labelColor=0A0A0F" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-0A0A0F?style=for-the-badge&logo=handshake&logoColor=818CF8&labelColor=0A0A0F" alt="Open to Collaborate" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════
-     FOOTER TYPING SVG — JETBRAINS MONO, NEON GREEN
-     ═══════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&center=true&vCenter=true&width=750&color=6EE7B7&lines=Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Improving+Every+Day+%F0%9F%92%BB;Thanks+for+Visiting+My+Profile+%F0%9F%91%8B" alt="Footer Typing SVG" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     2026 MATTE-FINISH FOOTER WAVE — TWINKLING ANIMATION
-     ═══════════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,25:111827,50:1E1B4B,75:312E81,100:0F172A&height=200&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=32&fontColor=E0E7FF&animation=twinkling&fontAlignY=70" alt="Footer Wave" />
-
-**⭐ If you like my work, consider starring my repositories!**
-
-**Made with ❤️ by Tamim Hasan**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1120,100:1E1B4B&height=120&section=footer" alt="" />
 
 </div>
