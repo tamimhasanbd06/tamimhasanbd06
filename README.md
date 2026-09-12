@@ -1,14 +1,24 @@
 <div align="center">
 
-<!-- ═══════════════ 2026 MATTE-FINISH ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,25:111827,50:1E1B4B,75:312E81,100:0F172A&height=320&section=header&text=TAMIM%20HASAN&fontSize=72&fontColor=E0E7FF&animation=twinkling&fontAlignY=30&desc=FULL%20STACK%20WEB%20DEVELOPER%20%7C%20TYPE%20SAFE%20%7C%202026&descAlignY=55&descSize=18&descColor=94A3B8" alt="Tamim Hasan Futuristic Banner" />
-
-<!-- ═══════════════ ANIMATED TYPING SVG — MATTE FINISH ═══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=600&color=6EE7B7&center=true&vCenter=true&width=950&lines=%3E_+Initializing+Developer+Environment...;%3E_+TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;%3E_+Building+Scalable+Full-Stack+Web+Solutions;%3E_+AI-Assisted+Modern+Web+Development;%3E_+Currently+Building+a+School+Management+System;%3E_+System+Ready.+Welcome+to+the+Future." alt="Typing SVG" />
+<!-- ═══════════════════════════════════════════════════════════════
+     GALAXY PROFILE HEADER — SPIRAL GALAXY WITH SHOOTING STARS
+     Auto-updated every 12 hours via GitHub Actions
+     ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/galaxy-header.svg" alt="Spiral Galaxy Header" />
 
 <br/>
 
-<!-- ═══════════════ GLASSMORPHIC SOCIAL BADGES ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     SCRIBESVG — EDGE-POWERED TYPING ANIMATION WITH GLASSMORPHIC CARD
+     Zero JavaScript, CSS-only @keyframes animations
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://scribesvg.vercel.app/api/render?lines=%3E_+Initializing+Developer+Environment...;%3E_+TypeScript+%7C+Next.js+%7C+React+%7C+Node.js;%3E_+Building+Scalable+Full-Stack+Solutions;%3E_+AI-Assisted+Modern+Web+Development;%3E_+System+Ready.+Welcome+to+the+Future.&layout=card&theme=cyberpunk&font=JetBrains+Mono&size=22&gradient=0EA5E9,6EE7B7,C4B5FD&neon=true" alt="ScribeSVG Cyberpunk Terminal" />
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     GLASSMORPHIC SOCIAL BADGES — MATTE FINISH
+     ═══════════════════════════════════════════════════════════════ -->
 <p>
   <a href="https://tamim-hassan-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=6EE7B7&labelColor=0A0A0F" alt="Portfolio" />
@@ -24,28 +34,27 @@
   </a>
 </p>
 
-<!-- ═══════════════ PROFILE METRICS — MATTE GLASS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     PROFILE METRICS — MATTE GLASS
+     ═══════════════════════════════════════════════════════════════ -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=tamimhasanbd06&style=for-the-badge&color=0A0A0F&labelColor=0A0A0F&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/tamimhasanbd06?style=for-the-badge&logo=github&color=0A0A0F&labelColor=0A0A0F&labelColor=0A0A0F" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/tamimhasanbd06?style=for-the-badge&logo=github&color=0A0A0F&labelColor=0A0A0F" alt="GitHub Stars" />
 </p>
 
-<br/>
-
-<!-- ═══════════════ 3D ISOMETRIC CODING ANIMATION ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="520" alt="3D Isometric Coding Hero" />
-
 </div>
 
-<!-- ═══════════════ ANIMATED ORGANIC DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER — RAINBOW FLOW
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Developer Coding Animation" />
+<img align="right" width="380" src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/about-me-avatar.svg" alt="Animated Avatar" />
 
 > *"In 2026, code is the baseline — craft is the differentiator."*
 
@@ -61,11 +70,16 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 
 <br clear="right"/>
 
+<!-- ═══════════════════════════════════════════════════════════════
+     TERMINAL EMULATOR SVG — TYPEWRITER EFFECT WITH MACOS CHROME
+     ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="440" alt="Coding Flow" />
+  <img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/terminal.svg" width="720" alt="Animated Terminal Emulator" />
 </div>
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -82,7 +96,9 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 | 🌱 **Next Focus** | Python & Artificial Intelligence |
 | 💬 **Motto** | *Type safe. Ship fast. Break nothing.* |
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -91,8 +107,19 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 
 <div align="center">
 
-<!-- ═══════════════ ANIMATED ICON MARQUEE — INFINITE SCROLL ═══════════════ -->
-<img src="https://raw.githubusercontent.com/Luc0-0/GodProfile/main/assets/icon_marquee.svg" width="850" alt="Animated Tech Icon Marquee" />
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED ICON MARQUEE — INFINITE SCROLLING TECH BADGES
+     Zero JavaScript, seamless loop
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/icon-marquee.svg" width="900" alt="Animated Tech Icon Marquee" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     NEURAL NETWORK TECH MAP — BEZIER-CONNECTED ANIMATED GRAPH
+     Nodes pulse, edges flow
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/neural-map.svg" width="900" alt="Neural Network Tech Stack Map" />
 
 <br/><br/>
 
@@ -107,21 +134,14 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 
 <br/><br/>
 
-<!-- ═══════════════ ANIMATED TECH ICONS — MATTE FINISH ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED TECH ICONS — MATTE FINISH
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JS" />
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc4c6e9356.gif" width="100" alt="Python" />
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="React" />
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="Node" />
 <img src="https://user-images.githubusercontent.com/74038190/212257463-4d72c609-8f3e-4a9c-98f7-bc36b5f8e6f5.gif" width="100" alt="VS Code" />
-
-<br/><br/>
-
-<!-- ═══════════════ NEURAL NETWORK TECH MAP ═══════════════ -->
-<img src="https://raw.githubusercontent.com/Luc0-0/GodProfile/main/assets/neural_map.svg" width="850" alt="Neural Network Tech Stack Map" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="460" alt="Web Development Animation" />
 
 </div>
 
@@ -136,7 +156,9 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 | **Tools** | Git · GitHub · VS Code · Vercel · Postman · Figma |
 | **AI Tools** | ChatGPT · Claude · Gemini · Cursor · Codex |
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -145,11 +167,9 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
 
 <div align="center">
 
-<!-- ═══════════════ TERMINAL EMULATOR SVG ═══════════════ -->
-<img src="https://raw.githubusercontent.com/Luc0-0/GodProfile/main/assets/terminal.svg" width="680" alt="Animated Terminal Emulator" />
-
-<br/><br/>
-
+<!-- ═══════════════════════════════════════════════════════════════
+     GLASSMORPHIC AI TOOL BADGES — MATTE FINISH
+     ═══════════════════════════════════════════════════════════════ -->
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-0A0A0F?style=for-the-badge&logo=visualstudiocode&logoColor=6EE7B7&labelColor=0A0A0F" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cursor-0A0A0F?style=for-the-badge&logo=cursor&logoColor=E0E7FF&labelColor=0A0A0F" alt="Cursor" />
@@ -162,17 +182,189 @@ I specialize in **TypeScript** and **Next.js**, building scalable, modern, and p
   <img src="https://img.shields.io/badge/OpenAI%20Codex-0A0A0F?style=for-the-badge&logo=openai&logoColor=E0E7FF&labelColor=0A0A0F" alt="OpenAI Codex" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="380" alt="AI Coding" />
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED ROBOT CODING GIF
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="420" alt="AI Robot Coding" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="420" alt="Robot Coding" />
+<!-- ═══════════════════════════════════════════════════════════════
+     COMMIT-FM — NOW PLAYING STYLE BANNER
+     Shows repositories currently in rotation, retro terminal skin
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/commit-fm/main/commit-fm.svg" width="800" alt="Commit FM Now Playing Banner" />
 
 </div>
 
 I use AI tools throughout my workflow — from planning and debugging to code review and documentation — to build faster while keeping code quality high. In 2026, **AI-assisted development is not optional; it's the standard**.
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+---
+
+## 📊 Live Telemetry — GitHub Analytics & Activity
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════════════
+     GODPROFILE — SPOTIFY NOW PLAYING CARD
+     Animated equalizer bars, synced via GitHub Actions
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/spotify-now-playing.svg" width="500" alt="Spotify Now Playing" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     GODPROFILE — WAKATIME ACTIVITY CHART
+     Animated horizontal bar chart of weekly coding breakdown
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/wakatime-chart.svg" width="700" alt="WakaTime Activity Chart" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     GITGLANCE — GLASSMORPHIC STATS CARDS
+     Self-hosted, rate-limit-free
+     ═══════════════════════════════════════════════════════════════ -->
+<img width="49%" src="https://gitglance.vercel.app/api/stats?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="GitHub Stats" />
+<img width="49%" src="https://gitglance.vercel.app/api/streak?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="55%" src="https://gitglance.vercel.app/api/languages?username=tamimhasanbd06&style=glass&theme=cyberpunk" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="90%" src="https://gitglance.vercel.app/api/activity?username=tamimhasanbd06&style=glass&theme=cyberpunk&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+## 🏙️ 3D Contribution City — GitCity
+
+<div align="center">
+  <!-- ═══════════════════════════════════════════════════════════════
+       GITCITY — ISOMETRIC 3D CITY FROM CONTRIBUTIONS
+       Every commit grows a building. Animated time-lapse.
+       ═══════════════════════════════════════════════════════════════ -->
+  <img src="https://gitcity.vercel.app/api?username=tamimhasanbd06&theme=matrix&animated=true" width="100%" alt="3D Contribution City" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tamimhasanbd06/tamimhasanbd06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════
+     GODPROFILE — CUSTOM SVG TROPHY CASE
+     S/A/B/C rank tiers, golden glow animations
+     ═══════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://raw.githubusercontent.com/tamimhasanbd06/godprofile-output/main/trophies.svg" alt="GitHub Trophy Case" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+---
+
+## 🔭 Current Project — School Management System
+
+<div align="center">
+  <!-- ═══════════════════════════════════════════════════════════════
+       3D ISOMETRIC PROJECT BUILDING ANIMATION
+       ═══════════════════════════════════════════════════════════════ -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="520" alt="Project Building Animation" />
+</div>
+
+A scalable digital platform built to support schools across Bangladesh with:
+
+- 📚 Student, teacher, and administrative management
+- 🗂️ Simplified school operations and communication
+- 💻 A modern, responsive interface built with **Next.js** and **TypeScript**
+- 🚀 A foundation for digital transformation in local education
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="420" alt="Building System" />
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="420" alt="Building System 2" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+---
+
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <!-- ═══════════════════════════════════════════════════════════════
+           ORBITAL PROJECT CARD — PORTFOLIO
+           ═══════════════════════════════════════════════════════════════ -->
+      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-portfolio.svg" width="100%" alt="Portfolio" />
+      <br/>
+      <b>🌐 Portfolio Website</b><br/>
+      Personal portfolio showcasing my skills and work.<br/><br/>
+      🔗 <a href="https://tamim-hassan-portfolio.vercel.app">Live Site</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <!-- ═══════════════════════════════════════════════════════════════
+           ORBITAL PROJECT CARD — SCHOOL SYSTEM
+           ═══════════════════════════════════════════════════════════════ -->
+      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-school.svg" width="100%" alt="School System" />
+      <br/>
+      <b>🏫 School Management System</b><br/>
+      Scalable school platform, currently in development.<br/><br/>
+      🔗 <i>Live link coming soon</i>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <!-- ═══════════════════════════════════════════════════════════════
+           ORBITAL PROJECT CARD — AI APP
+           ═══════════════════════════════════════════════════════════════ -->
+      <img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/project-ai.svg" width="100%" alt="AI App" />
+      <br/>
+      <b>🤖 AI Web Application</b><br/>
+      Upcoming project exploring AI-powered productivity tools.<br/><br/>
+      🔗 <i>In planning</i>
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+---
+
+## 🎓 Education
+
+**Holyflower English High School** — Currently studying, Science group
+**Jaharpur Al Fatah Dar Ulum Komi Madarsa** — Jaharpur, Parbora Bandar, Narayanganj (Previous)
+
+## 🏅 Certification
+
+**Programming Hero — Level 1 Badge, Batch 13**
+AI-Powered Web Development
+
+## 🌐 Languages
+
+Bengali (Native) · Hindi · Urdu · English (Professional)
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -234,116 +426,9 @@ I use AI tools throughout my workflow — from planning and debugging to code re
 
 </div>
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🎓 Education
-
-**Holyflower English High School** — Currently studying, Science group
-**Jaharpur Al Fatah Dar Ulum Komi Madarsa** — Jaharpur, Parbora Bandar, Narayanganj (Previous)
-
-## 🏅 Certification
-
-**Programming Hero — Level 1 Badge, Batch 13**
-AI-Powered Web Development
-
-## 🌐 Languages
-
-Bengali (Native) · Hindi · Urdu · English (Professional)
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 🔭 Current Project — School Management System
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="Project building animation" />
-</div>
-
-A scalable digital platform built to support schools across Bangladesh with:
-
-- 📚 Student, teacher, and administrative management
-- 🗂️ Simplified school operations and communication
-- 💻 A modern, responsive interface built with **Next.js** and **TypeScript**
-- 🚀 A foundation for digital transformation in local education
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400" alt="Building system" />
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-772e3e3f-4c74-42a5-b9d3-9b7cb4ac0e7c.gif" width="400" alt="Building system 2" />
-</div>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100%" alt="Portfolio" />
-      <br/>
-      <b>🌐 Portfolio Website</b><br/>
-      Personal portfolio showcasing my skills and work.<br/><br/>
-      🔗 <a href="https://tamim-hassan-portfolio.vercel.app">Live Site</a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="School System" />
-      <br/>
-      <b>🏫 School Management System</b><br/>
-      Scalable school platform, currently in development.<br/><br/>
-      🔗 <i>Live link coming soon</i>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="AI App" />
-      <br/>
-      <b>🤖 AI Web Application</b><br/>
-      Upcoming project exploring AI-powered productivity tools.<br/><br/>
-      🔗 <i>In planning</i>
-    </td>
-  </tr>
-</table>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimhasanbd06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0F&title_color=6EE7B7&icon_color=818CF8&text_color=94A3B8" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tamimhasanbd06&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6EE7B7&fire=818CF8&currStreakLabel=E0E7FF" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimhasanbd06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0F&title_color=6EE7B7&text_color=94A3B8" alt="Top Languages" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamimhasanbd06&theme=tokyo-night&hide_border=true&area=true&bg_color=0A0A0F&color=6EE7B7&line=818CF8&point=C4B5FD" alt="GitHub Activity Graph" />
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tamimhasanbd06/tamimhasanbd06/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=tamimhasanbd06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophy" />
-</div>
-
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -351,13 +436,15 @@ A scalable digital platform built to support schools across Bangladesh with:
 ## 🧑‍💻 What I Do
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="What I do" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="What I Do" />
 </div>
 
 ✅ Responsive Website Design &nbsp;·&nbsp; ✅ Frontend Development &nbsp;·&nbsp; ✅ Backend API Development
 ✅ Full Stack Web Applications &nbsp;·&nbsp; ✅ Portfolio & Business Websites &nbsp;·&nbsp; ✅ AI-Assisted Development
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -388,7 +475,9 @@ For me, coding blends creativity, logic, patience, and purpose. I want to use te
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
-<!-- ═══════════════ ANIMATED DIVIDER ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED DIVIDER
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
@@ -397,7 +486,10 @@ For me, coding blends creativity, logic, patience, and purpose. I want to use te
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="320" alt="Connect" />
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED CONNECT AVATAR
+     ═══════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/tamimhasanbd06/galaxy-profile/main/output/connect-avatar.svg" width="320" alt="Connect" />
 
 <p>
   <a href="https://tamim-hassan-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=6EE7B7&labelColor=0A0A0F" alt="Portfolio" /></a>
@@ -417,12 +509,16 @@ For me, coding blends creativity, logic, patience, and purpose. I want to use te
 
 <div align="center">
 
-<!-- ═══════════════ FOOTER ANIMATED TYPING ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     FOOTER TYPING SVG — JETBRAINS MONO, NEON GREEN
+     ═══════════════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&center=true&vCenter=true&width=750&color=6EE7B7&lines=Keep+Learning+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Improving+Every+Day+%F0%9F%92%BB;Thanks+for+Visiting+My+Profile+%F0%9F%91%8B" alt="Footer Typing SVG" />
 
 <br/>
 
-<!-- ═══════════════ 2026 MATTE-FINISH FOOTER WAVE ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     2026 MATTE-FINISH FOOTER WAVE — TWINKLING ANIMATION
+     ═══════════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,25:111827,50:1E1B4B,75:312E81,100:0F172A&height=200&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=32&fontColor=E0E7FF&animation=twinkling&fontAlignY=70" alt="Footer Wave" />
 
 **⭐ If you like my work, consider starring my repositories!**
