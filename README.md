@@ -1,348 +1,562 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     NEO-TERMINAL GLASS · PREMIUM FUTURISTIC GITHUB PROFILE
-     Palette: #020617 · #00E5FF · #3B82F6 · #8B5CF6 · #F8FAFC · #94A3B8
-     Compatible: GitHub Markdown + HTML only. No JS. No external CSS.
-     ═══════════════════════════════════════════════════════════════ -->
+<!-- =========================================================
+     PREMIUM FUTURISTIC GITHUB PROFILE README
+     ========================================================= -->
+
+<!-- ========================= HERO ========================== -->
 
 <div align="center">
 
-<!-- ░░ HERO BANNER ░░ -->
-<a href="https://tamim-hassan-portfolio.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1120,100:1E1B4B&height=280&section=header&text=Tamim%20Hasan&fontSize=68&fontColor=F8FAFC&fontAlignY=34&desc=Full-Stack%20Web%20Developer%20%7C%20TypeScript%20%7C%20Next.js&descAlignY=56&descSize=20&descColor=94A3B8&animation=fadeIn" alt="Tamim Hasan — Full-Stack Web Developer" />
-</a>
+  <img
+    src="assets/hero-banner.png"
+    alt="Futuristic developer workspace banner"
+    width="100%"
+  />
 
-<!-- ░░ ANIMATED TYPING — CYAN SIGNAL ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer;React+%26+Next.js+Developer;TypeScript+%7C+Node.js+%7C+Express;Building+scalable+web+experiences" alt="Role: Full-Stack Web Developer" />
+  <br />
 
-<br/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+Nest.js;AWS+%7C+Docker+%7C+PostgreSQL;Building+Modern+%26+Scalable+Web+Experiences"
+    alt="Typing animation"
+  />
 
-<!-- ░░ SOCIAL PILLS — GLASS STYLE ░░ -->
-<a href="https://tamim-hassan-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=020617" alt="Portfolio" />
-</a>
-<a href="https://github.com/tamimhasanbd06">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
-</a>
-<a href="https://facebook.com/tamimhasanbd06">
-  <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=3B82F6&labelColor=020617" alt="Facebook" />
-</a>
-<a href="mailto:tamimhasanbd06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=020617" alt="Email" />
-</a>
+  <br /><br />
 
-<br/><br/>
+  <h1>Hi, I'm [YOUR NAME] 👋</h1>
 
-<!-- ░░ LIVE PROFILE METRICS ░░ -->
-<img src="https://komarev.com/ghpvc/?username=tamimhasanbd06&style=for-the-badge&color=0B1120&labelColor=020617&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/tamimhasanbd06?style=for-the-badge&logo=github&color=0B1120&labelColor=020617&label=FOLLOWERS" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-0B1120?style=for-the-badge&labelColor=020617" alt="Focus: Full-Stack" />
+  <h3>
+    Full-Stack Web Developer
+  </h3>
+
+  <p>
+    I build modern, scalable and user-focused web experiences
+    with clean architecture, thoughtful UI and production-ready technology.
+  </p>
+
+  <br />
+
+  <a href="[YOUR PORTFOLIO]">
+    <img
+      src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/[YOUR USERNAME]">
+    <img
+      src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="[YOUR LINKEDIN]">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:[YOUR EMAIL]">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
 </div>
 
-<!-- ░░ HAIRLINE DIVIDER ░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+<br />
 
-<br/>
+---
 
-## 〢 About Me
+<!-- ===================== PROFILE OVERVIEW ================= -->
+
+## ⚡ Developer Overview
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-**Full-stack web developer** based in Narayanganj, Dhaka — building **modern, scalable, and user-focused web experiences** with a focus on **TypeScript**, **Next.js**, and **clean architecture**.
+### 👨‍💻 About Me
 
-I care about code that is **understandable, maintainable, and useful** — not just functional.
+I'm a developer focused on building modern web applications, scalable APIs and production-ready digital experiences.
 
-- 🏢 Web Developer at **Ionic Corporation** — Rayebagh, Dhaka
-- 🏫 Building a **School Management System** for schools across Bangladesh
-- 🎯 Type-safety · DX · Performance · Production readiness
-- 🤖 Exploring **AI-assisted development** workflows
-- 🐍 Learning **Python** for AI & automation
+My approach combines:
+
+- Clean and maintainable code
+- Modern UI/UX
+- Scalable architecture
+- Performance optimization
+- Developer-friendly workflows
+- Reliable deployment practices
 
 </td>
-<td width="40%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Developer at work" />
+<td width="50%" valign="top">
+
+### 🚀 Currently Focused On
+
+- Full-Stack Web Development
+- React & Next.js
+- TypeScript
+- Python & FastAPI
+- Nest.js
+- PostgreSQL
+- Docker
+- AWS
+- NGINX
+- REST API Architecture
+- Cloud & DevOps
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+---
 
-## 〢 Current Focus
+# 🧠 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **[YOUR NAME]**, a **[YOUR ROLE]** focused on creating modern and reliable software experiences.
 
-**🔨 Currently Building**
-- Modern web applications
-- REST APIs & backend systems
-- Production-ready interfaces
-- Admin dashboards & tooling
+I enjoy turning ideas into practical products—from polished frontend interfaces to structured backend systems and scalable APIs.
 
-</td>
-<td width="50%" valign="top">
+My development philosophy is simple:
 
-**🧭 Currently Exploring**
-- Cloud architecture & DevOps
-- AI-assisted development
-- System design
-- Performance engineering
+> **Build clean. Think deeply. Ship thoughtfully. Improve continuously.**
 
-</td>
-</tr>
-</table>
+I'm continuously learning new technologies, improving my engineering workflow and exploring better ways to build software.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+---
 
-## 〢 Tech Stack
+# 🎯 What I'm Working On
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark&perline=7" alt="Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark&perline=4" alt="Backend: Node.js, Express, MongoDB, PostgreSQL" />
-
-**Currently Exploring**
-
-<img src="https://skillicons.dev/icons?i=python,docker,nginx,aws&theme=dark&perline=4" alt="Exploring: Python, Docker, NGINX, AWS" />
+| Area | Focus |
+|---|---|
+| 🌐 Frontend | React, Next.js, TypeScript |
+| ⚙️ Backend | Python, FastAPI, Nest.js |
+| 🗄️ Database | PostgreSQL |
+| ☁️ Cloud | AWS |
+| 🐳 DevOps | Docker, NGINX |
+| 🔌 APIs | REST API & backend architecture |
+| 🧩 Engineering | Performance, scalability & maintainability |
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+---
 
-## 〢 Developer Toolkit
+# 🛠️ Tech Stack
 
-<div align="center">
+## 🎨 Frontend
 
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=00E5FF&labelColor=020617" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-020617?style=for-the-badge&logo=visualstudiocode&logoColor=3B82F6&labelColor=020617" alt="VS Code" />
-<img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=8B5CF6&labelColor=020617" alt="Postman" />
-<img src="https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=020617" alt="Vercel" />
-<img src="https://img.shields.io/badge/Figma-020617?style=for-the-badge&logo=figma&logoColor=00E5FF&labelColor=020617" alt="Figma" />
+<p align="left">
 
-<br/><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5"/>
+</a>
 
-**AI-Assisted Development**
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3"/>
+</a>
 
-<img src="https://img.shields.io/badge/ChatGPT-020617?style=for-the-badge&logo=openai&logoColor=00E5FF&labelColor=020617" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Claude-020617?style=for-the-badge&logo=anthropic&logoColor=8B5CF6&labelColor=020617" alt="Claude" />
-<img src="https://img.shields.io/badge/Gemini-020617?style=for-the-badge&logo=googlegemini&logoColor=3B82F6&labelColor=020617" alt="Gemini" />
-<img src="https://img.shields.io/badge/Cursor-020617?style=for-the-badge&logo=cursor&logoColor=F8FAFC&labelColor=020617" alt="Cursor" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+</a>
 
-</div>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+</a>
 
-## 〢 Featured Projects
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
+</a>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="50" alt="Python"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI"/>
+</a>
+
+<a href="https://nestjs.com/">
+<img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+</a>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL"/>
+</a>
+
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker"/>
+</a>
+
+<a href="https://nginx.org/">
+<img src="https://skillicons.dev/icons?i=nginx" height="50" alt="NGINX"/>
+</a>
+
+</p>
+
+---
+
+# 🔧 Developer Toolkit
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,terminal,docker,aws,nginx" alt="Developer tools"/>
+
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing skills, stack, and selected work.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind`
-
-🔗 [Live Site](https://tamim-hassan-portfolio.vercel.app) · [Source](https://github.com/tamimhasanbd06)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏫 School Management System
-Scalable platform for schools across Bangladesh — students, teachers, and administration.
-
-**Stack:** `Next.js` `TypeScript` `Node.js`
-
-🔗 Live link coming soon
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Web Application
-Upcoming project exploring AI-powered productivity tools.
-
-**Stack:** `Next.js` `TypeScript` `AI APIs`
-
-🔗 In planning
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Your Next Project
-Open slot — this row is reserved for the next production release.
-
-**Stack:** `[TECH]`
-
-🔗 `[PROJECT_URL]`
-
-</td>
+<td align="center">🔀<br/><b>Git</b><br/>Version Control</td>
+<td align="center">🐙<br/><b>GitHub</b><br/>Collaboration</td>
+<td align="center">💻<br/><b>VS Code</b><br/>Development</td>
+<td align="center">🔌<br/><b>Postman</b><br/>API Testing</td>
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+---
 
-## 〢 Project Walkthroughs · Video Demos
+# 🚀 Featured Projects
+
+> A selection of projects that represent my development work and technical interests.
+
+<br />
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+
+<td width="50%" valign="top">
+
+## 🔷 [PROJECT 01]
+
+<img
+  src="assets/project-01.png"
+  alt="Project 01 preview"
+  width="100%"
+/>
+
+### [PROJECT NAME]
+
+[PROJECT DESCRIPTION]
+
+**Built with**
+
+`React` `Next.js` `TypeScript`
+
+**Highlights**
+
+- Modern responsive UI
+- Component-based architecture
+- Performance-focused development
+
+<br />
+
+<a href="[PROJECT 01 GITHUB]">
+<img
+src="https://img.shields.io/badge/View_Source-020617?style=for-the-badge&logo=github&logoColor=white"
+alt="View source"
+/>
+</a>
+
+<a href="[PROJECT 01 DEMO]">
+<img
+src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+alt="Live demo"
+/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔷 [PROJECT 02]
+
+<img
+  src="assets/project-02.png"
+  alt="Project 02 preview"
+  width="100%"
+/>
+
+### [PROJECT NAME]
+
+[PROJECT DESCRIPTION]
+
+**Built with**
+
+`Python` `FastAPI` `PostgreSQL`
+
+**Highlights**
+
+- REST API architecture
+- Structured backend
+- Database-driven application
+
+<br />
+
+<a href="[PROJECT 02 GITHUB]">
+<img
+src="https://img.shields.io/badge/View_Source-020617?style=for-the-badge&logo=github&logoColor=white"
+alt="View source"
+/>
+</a>
+
+<a href="[PROJECT 02 DEMO]">
+<img
+src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+alt="Live demo"
+/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔷 [PROJECT 03]
+
+<img
+  src="assets/project-03.png"
+  alt="Project 03 preview"
+  width="100%"
+/>
+
+### [PROJECT NAME]
+
+[PROJECT DESCRIPTION]
+
+**Built with**
+
+`Nest.js` `PostgreSQL` `Docker`
+
+**Highlights**
+
+- Scalable backend
+- API-first architecture
+- Production-ready setup
+
+<br />
+
+<a href="[PROJECT 03 GITHUB]">
+<img
+src="https://img.shields.io/badge/View_Source-020617?style=for-the-badge&logo=github&logoColor=white"
+alt="View source"
+/>
+</a>
+
+<a href="[PROJECT 03 DEMO]">
+<img
+src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+alt="Live demo"
+/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔷 [PROJECT 04]
+
+<img
+  src="assets/project-04.png"
+  alt="Project 04 preview"
+  width="100%"
+/>
+
+### [PROJECT NAME]
+
+[PROJECT DESCRIPTION]
+
+**Built with**
+
+`AWS` `Docker` `NGINX`
+
+**Highlights**
+
+- Cloud deployment
+- Containerized environment
+- Production infrastructure
+
+<br />
+
+<a href="[PROJECT 04 GITHUB]">
+<img
+src="https://img.shields.io/badge/View_Source-020617?style=for-the-badge&logo=github&logoColor=white"
+alt="View source"
+/>
+</a>
+
+<a href="[PROJECT 04 DEMO]">
+<img
+src="https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black"
+alt="Live demo"
+/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎥 Project Walkthroughs
+
+> Explore selected development walkthroughs and project demonstrations.
+
+<table>
+<tr>
+
+<td width="33%" align="center">
 
 <a href="[VIDEO_URL_01]">
-  <img src="https://placehold.co/400x225/020617/00E5FF/png?text=Portfolio+Walkthrough" alt="Portfolio walkthrough thumbnail" />
+
+<img
+src="assets/video-01.png"
+alt="Portfolio walkthrough video"
+width="100%"
+/>
+
+### ▶ Portfolio Walkthrough
+
 </a>
 
-**Portfolio Walkthrough**<br/>
-<sub>A short tour through the design system and code structure.</sub>
-
-[▶ Watch]([VIDEO_URL_01])
+Short walkthrough of my portfolio, design system and developer experience.
 
 </td>
-<td width="33%" align="center" valign="top">
+
+<td width="33%" align="center">
 
 <a href="[VIDEO_URL_02]">
-  <img src="https://placehold.co/400x225/020617/3B82F6/png?text=School+System+Demo" alt="School system demo thumbnail" />
+
+<img
+src="assets/video-02.png"
+alt="Featured project demo"
+width="100%"
+/>
+
+### ▶ Project Demo
+
 </a>
 
-**School System Demo**<br/>
-<sub>Admin dashboard and student workflow demo.</sub>
-
-[▶ Watch]([VIDEO_URL_02])
+A demonstration of one of my featured applications and its core functionality.
 
 </td>
-<td width="33%" align="center" valign="top">
+
+<td width="33%" align="center">
 
 <a href="[VIDEO_URL_03]">
-  <img src="https://placehold.co/400x225/020617/8B5CF6/png?text=Dev+Workflow" alt="Development workflow thumbnail" />
+
+<img
+src="assets/video-03.png"
+alt="Development workflow video"
+width="100%"
+/>
+
+### ▶ Development Workflow
+
 </a>
 
-**Development Workflow**<br/>
-<sub>How I ship — tooling, branching, and review.</sub>
-
-[▶ Watch]([VIDEO_URL_03])
+A look at my development workflow, tools and engineering process.
 
 </td>
+
 </tr>
 </table>
 
-> ℹ️ GitHub does **not** render embedded video players in READMEs. The cards above link out to hosted demos — reliable and accessible on every device.
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
-
-## 〢 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamimhasanbd06&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=8B5CF6&text_color=94A3B8&border_color=1E293B&count_private=true" alt="GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=tamimhasanbd06&hide_border=true&background=020617&ring=00E5FF&fire=8B5CF6&currStreakLabel=F8FAFC&sideLabels=94A3B8&dates=94A3B8" alt="Contribution streak" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=[YOUR USERNAME]&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=3B82F6&text_color=F8FAFC&ring_color=8B5CF6"
+alt="GitHub statistics"
+/>
 
-<br/><br/>
+<br /><br />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamimhasanbd06&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=94A3B8&border_color=1E293B&langs_count=8" alt="Top languages" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR USERNAME]&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=F8FAFC"
+alt="Top programming languages"
+/>
 
 </div>
 
-## 〢 Building in Public
+---
+
+# 🔥 GitHub Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tamimhasanbd06&bg_color=020617&color=00E5FF&line=8B5CF6&point=F8FAFC&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img
+src="https://streak-stats.demolab.com?user=[YOUR USERNAME]&hide_border=true&background=020617&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=94A3B8&dates=94A3B8"
+alt="GitHub contribution streak"
+/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
-
-## 〢 Developer Philosophy
-
-> **Build simple. Ship thoughtfully. Improve continuously.**
->
-> Good software is not only functional — it is understandable, maintainable, and useful. I optimize for clarity first, performance second, cleverness never.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
-
-## 〢 Currently Learning
+<br />
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced%20TypeScript-020617?style=for-the-badge&labelColor=020617&color=00E5FF" alt="Advanced TypeScript" />
-<img src="https://img.shields.io/badge/System%20Design-020617?style=for-the-badge&labelColor=020617&color=3B82F6" alt="System Design" />
-<img src="https://img.shields.io/badge/Cloud%20Architecture-020617?style=for-the-badge&labelColor=020617&color=8B5CF6" alt="Cloud Architecture" />
-<img src="https://img.shields.io/badge/DevOps-020617?style=for-the-badge&labelColor=020617&color=00E5FF" alt="DevOps" />
-<img src="https://img.shields.io/badge/Performance%20Engineering-020617?style=for-the-badge&labelColor=020617&color=3B82F6" alt="Performance Engineering" />
-<img src="https://img.shields.io/badge/AI--Assisted%20Dev-020617?style=for-the-badge&labelColor=020617&color=8B5CF6" alt="AI-assisted development" />
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR USERNAME]&bg_color=020617&color=00E5FF&line=3B82F6&point=8B5CF6&area=true&hide_border=true"
+alt="GitHub contribution activity graph"
+/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
+---
 
-## 〢 What I Build
+# 🌐 Building in Public
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm continuously working on improving my development skills through:
 
-- 🌐 Web Applications
-- 🔌 REST APIs
-- ⚙️ Backend Systems
-- 🧑‍💼 Admin Dashboards
-
-</td>
-<td width="50%" valign="top">
-
-- 🚀 Landing Pages
-- 💼 Portfolio Websites
-- 🗄️ Database-driven Apps
-- ☁️ Deployment & Infrastructure
-
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,30&height=2" alt="" />
-
-## 〢 Contact
-
-<div align="center">
-
-### Let's build something useful.
-
-<a href="https://tamim-hassan-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=020617" alt="Portfolio" />
-</a>
-<a href="https://github.com/tamimhasanbd06">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=020617" alt="GitHub" />
-</a>
-<a href="mailto:tamimhasanbd06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=020617" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20to%20Work-020617?style=for-the-badge&logo=checkmarx&logoColor=00E5FF&labelColor=020617" alt="Open to work" />
-<img src="https://img.shields.io/badge/Open%20to%20Collaborate-020617?style=for-the-badge&logo=handshake&logoColor=3B82F6&labelColor=020617" alt="Open to collaborate" />
-
-</div>
-
-<br/>
-
-<!-- ░░ FOOTER ░░ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=Thanks+for+visiting.;Designed+%26+built+with+curiosity+and+code." alt="Thanks for visiting" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1120,100:1E1B4B&height=120&section=footer" alt="" />
-
-</div>
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   BUILD → TEST → LEARN → IMPROVE → SHIP      │
+│                                               │
+└───────────────────────────────────────────────┘
